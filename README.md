@@ -6,7 +6,7 @@ View all the tweets in html here: [https://amiaopensource.github.io/amia16_tweet
 ## the tweets
 tweets.json -- all of the tweets!  
 tweets.html -- all the tweets, but in html format!  
-AMIAdigipres.json -- #amiadigipres for the Digital Preservation stream tweets  
+AMIAdigipres.json -- #amiadigipres for the Digital Preservation stream tweets. This is also available as a Storify [here](https://storify.com/ablwr/amiadigipres)   
 amiaesp.json -- #amiaesp hashtag  
 amiawomen.json -- #amiawomen hashtag for panel  
 avhack16.json -- #avhack16 hashtag for hackday event  
