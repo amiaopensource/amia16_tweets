@@ -19,3 +19,6 @@ fth16.json -- #fth16 for the Framing the Horizon stream tweets
 ## bonus data
 tweets.geojson -- locations for all the tweets! (if applicable)   
 tags.txt -- all the tags used, ranked in order of usage  
+
+## bonus links
+[U of Toronto Media Commons Storify](https://storify.com/rebeattie/association-of-moving-archivists-conference-2016-p)  
